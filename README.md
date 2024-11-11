@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a package delivery system for the Western Governors University Parcel Service (WGUPS). The system is designed to load packages onto trucks, calculate the optimal delivery route based on distances, and track the status of each package.
+This project is a package delivery system for the Parcel Service (PS). The system is designed to load packages onto trucks, calculate the optimal delivery route based on distances, and track the status of each package.
 
 ## Features
 
@@ -75,3 +75,4 @@ To run the program, execute the following command in your terminal:
 
 ```bash
 python main.py
+
